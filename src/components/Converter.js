@@ -148,9 +148,6 @@ export default function Converter() {
 		        	{currency.label}
 		        	</Dropdown.Item>
 		        ))}
-		          
-		          <Dropdown.Divider />
-		          <Dropdown.Item href="#">Separated link</Dropdown.Item>
 		        </DropdownButton>
 		      </InputGroup>
 			</Box>

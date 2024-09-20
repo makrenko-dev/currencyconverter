@@ -1,0 +1,23 @@
+p{
+	margin-bottom: 0px!important;
+}
+.navbar{
+	background-color: #78B1E9;
+	border: 6px dashed #1976d2;
+}
+
+.logo{
+	width: 150px;
+	height: 59px;
+	margin: 10px;
+}
+
+.css-8zgow4-MuiTypography-root.rates{
+	 flex-grow: 1;
+	 display: inline-flex;
+	 justify-content: center;
+	 align-items: center;
+	  font-family: "Montserrat", sans-serif;
+	  color: black;
+	  font-weight: 600;
+}

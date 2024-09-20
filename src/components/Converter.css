@@ -1,0 +1,41 @@
+.converter{
+	background-color: #78B1E9;
+	width: 100%;
+	height: 84vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-items: center;
+    align-content: center;
+    
+}
+
+h1.animate__animated.animate__backInLeft{
+  font-family: "Bruno Ace SC", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 80px;
+  margin-bottom: 100px;
+}
+
+.mainbox{
+	background-color: #78B1E9;
+	border: 6px dashed #1976d2;
+	padding: 90px 50px;
+	border-radius: 10px;
+	display: flex;
+	align-items: center;
+
+}
+#input-group-dropdown-2{
+	background-color: #1976d2;
+}
+
+#input-group-dropdown-2:hover{
+	background-color: blue;
+}
+.css-20bmp1-MuiSvgIcon-root.swap{
+	color: white;
+	font-size: 40px;
+}

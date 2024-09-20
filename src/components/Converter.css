@@ -40,7 +40,8 @@ h1.animate__animated.animate__backInLeft{
 #input-group-dropdown-2:hover{
 	background-color: blue;
 }
-.css-20bmp1-MuiSvgIcon-root.swap{
+.css-20bmp1-MuiSvgIcon-root.swap, .MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.swap.css-10vyf6v{
 	color: white;
 	font-size: 40px;
+	margin: 5px;
 }
